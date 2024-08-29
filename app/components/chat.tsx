@@ -157,31 +157,31 @@ const Chat = forwardRef<ChatHandle, ChatProps>(
             description:
               "GPT-4o mini is OpenAI's most advanced and cost-effective small model...",
           }
-        case 'claude-3-5-sonnet-20240620':
+        case 'claude-3-5-sonnet':
           return {
             title: 'Claude 3.5 Sonnet',
             description:
               "Claude 3.5 Sonnet is Anthropic's high-performance language model capable of handling a wide range of tasks...",
           }
-        case 'gemini-1.5-pro-latest':
+        case 'gemini-1.5-pro':
           return {
             title: 'Gemini 1.5 Pro',
             description:
               "Gemini 1.5 Pro is Google's high-performance language model capable of handling a wide range of tasks...",
           }
-        case 'gemini-1.5-flash-latest':
+        case 'gemini-1.5-flash':
           return {
             title: 'Gemini 1.5 Flash',
             description:
               "Gemini 1.5 Flash is Google's fastest and most cost-effective model for high-frequency tasks...",
           }
-        case 'llama-3.1-70b-versatile':
+        case 'llama-3.1-70b':
           return {
             title: 'LLaMA 3.1 70B',
             description:
               'LLaMA 3.1 70B is a large-scale language model suitable for diverse tasks...',
           }
-        case 'llama-3.1-8b-instant':
+        case 'llama-3.1-8b':
           return {
             title: 'LLaMA 3.1 8B',
             description:
