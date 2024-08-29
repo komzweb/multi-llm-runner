@@ -2,6 +2,8 @@
 
 This is a simple web application that allows you to run multiple Large Language Models (LLMs) in parallel.
 
+![image](./public/images/multi-llm-runner.png)
+
 ## Features
 
 - Simultaneous use of multiple chat interfaces
