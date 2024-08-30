@@ -52,6 +52,16 @@ Before running the application, set up the following environment variables:
 - `GOOGLE_GEMINI_API_KEY`: Your Google Gemini API key
 - `GROQ_API_KEY`: Your Groq API key
 
+## Missing Features
+
+The current application lacks the following features:
+
+- Multimodal support
+- Markdown to HTML conversion
+- Saving conversation history to a database
+- Adjustable message input area
+- And more
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
